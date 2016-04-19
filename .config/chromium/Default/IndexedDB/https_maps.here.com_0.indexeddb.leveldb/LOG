@@ -1,0 +1,9 @@
+2016/02/15-14:11:21.339 5329 Reusing MANIFEST /home/alan/.config/chromium/Default/IndexedDB/https_maps.here.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/02/15-14:11:24.992 5329 Current memtable full; waiting...
+2016/02/15-14:11:24.993 8131 Level-0 table #5: started
+2016/02/15-14:11:25.027 8131 Level-0 table #5: 594 bytes OK
+2016/02/15-14:11:25.083 8131 Delete type=0 #3
+2016/02/15-14:11:25.083 8131 Level-0 table #7: started
+2016/02/15-14:11:25.083 8131 Level-0 table #7: 0 bytes OK
+2016/02/15-14:11:25.140 8131 Delete type=0 #4
+2016/02/15-14:11:25.140 8131 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

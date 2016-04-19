@@ -1,0 +1,12 @@
+2016/04/18-21:26:41.878 1186 Reusing MANIFEST /home/alan/.config/chromium/Default/Session Storage/MANIFEST-000153
+2016/04/18-21:26:41.879 1186 Recovering log #1395
+2016/04/18-21:26:41.931 1186 Reusing old log /home/alan/.config/chromium/Default/Session Storage/001395.log 
+2016/04/18-21:38:43.513 2014 Level-0 table #1400: started
+2016/04/18-21:38:43.622 2014 Level-0 table #1400: 40475 bytes OK
+2016/04/18-21:38:43.726 2014 Delete type=0 #1395
+2016/04/18-21:42:53.314 2014 Level-0 table #1402: started
+2016/04/18-21:42:53.364 2014 Level-0 table #1402: 89197 bytes OK
+2016/04/18-21:42:53.465 2014 Delete type=0 #1399
+2016/04/18-21:43:00.065 2014 Level-0 table #1404: started
+2016/04/18-21:43:00.116 2014 Level-0 table #1404: 95011 bytes OK
+2016/04/18-21:43:00.172 2014 Delete type=0 #1401

@@ -1,0 +1,114 @@
+{
+   "checksum": "632be25bcea25bfb17954e3e9d52c06e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13069708011471911",
+            "id": "5",
+            "name": "AUR (en) - python-powerline-git",
+            "type": "url",
+            "url": "https://aur.archlinux.org/packages/python-powerline-git/?comments=all"
+         }, {
+            "date_added": "13069729587697776",
+            "id": "8",
+            "name": "No wifi in i3 - i3 FAQ",
+            "type": "url",
+            "url": "https://faq.i3wm.org/question/803/no-wifi-in-i3/"
+         }, {
+            "date_added": "13070058001956014",
+            "id": "10",
+            "name": "ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/"
+         }, {
+            "date_added": "13070061362736844",
+            "id": "12",
+            "name": "Lenovo ThinkPad T61 - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/Lenovo_ThinkPad_T61"
+         }, {
+            "date_added": "13072503007602433",
+            "id": "14",
+            "name": "Columbia University COMS W3134 Data Structures in Java",
+            "type": "url",
+            "url": "http://www.cs.columbia.edu/~bauer/cs3134/homework.html"
+         }, {
+            "date_added": "13073728115497204",
+            "id": "16",
+            "name": "Source Code for Data Structures and Algorithm Analysis in Java (Third Edition)",
+            "type": "url",
+            "url": "http://users.cis.fiu.edu/~weiss/dsaajava3/code/"
+         }, {
+            "date_added": "13073794979888452",
+            "id": "18",
+            "name": "Index of /~weiss/dsj3/code",
+            "type": "url",
+            "url": "http://users.cis.fiu.edu/~weiss/dsj3/code/"
+         }, {
+            "date_added": "13082602607280925",
+            "id": "22",
+            "name": "YBlog - Learn Vim Progressively",
+            "type": "url",
+            "url": "http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/"
+         }, {
+            "date_added": "13096571441879430",
+            "id": "25",
+            "name": "",
+            "type": "url",
+            "url": "http://time.is/"
+         }, {
+            "date_added": "13101968378111788",
+            "id": "28",
+            "name": "Java 8 Tutorial - Benjamin Winterberg",
+            "type": "url",
+            "url": "http://winterbe.com/posts/2014/03/16/java-8-tutorial/"
+         }, {
+            "date_added": "13101968381232194",
+            "id": "29",
+            "name": "Java 8 Stream Tutorial - Benjamin Winterberg",
+            "type": "url",
+            "url": "http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/"
+         }, {
+            "date_added": "13102119231414620",
+            "id": "32",
+            "name": "README.md",
+            "type": "url",
+            "url": "file:///home/alan/dstillery-challenge/minibidder/README.md"
+         }, {
+            "date_added": "13102866900017164",
+            "id": "35",
+            "name": "Grouping, sampling and batching - custom collectors in Java 8",
+            "type": "url",
+            "url": "https://www.javacodegeeks.com/2014/07/grouping-sampling-and-batching-custom-collectors-in-java-8.html"
+         }, {
+            "date_added": "13103758813199461",
+            "id": "38",
+            "name": "Numbers Everyone Should Know | Everything is Data",
+            "type": "url",
+            "url": "https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/"
+         } ],
+         "date_added": "13069706786484807",
+         "date_modified": "13103758813199461",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13069706786484825",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13069706786484827",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

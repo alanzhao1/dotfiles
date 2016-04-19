@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-fill '/home/alan/bg-image/bg-1' 

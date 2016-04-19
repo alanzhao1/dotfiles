@@ -1,0 +1,32 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxm2aTHxheKnqiF+5MbyF8L+oiwS5KFh8FwPE2v3z4RpLmhhpMMzP8Uy04iORKzRPICjj30cDvWBqUyCiySNSTsRR8k+hs6nnCuyRyPDnibd3TCzfEhweaBMSrnEsA+NMuQP713ttsMiO7c2oXvrRRflyKGvUa/ZWlzYumBtOvLE7qx2go9F5gWXDkYzD+OTYxBKjUjZKcs/flRMnEo6SYeE7pNrtv1pGT6/5+Nf5IqU0siX1tWmLWwrfU0ckRczoNYhTuHK9IgBRf+mT77A08MPywFnLuwVySF4wP8kHe9mIfOrMiPCqbNwTJaww2BmH3QUUcqhsX9h5jJ/e0ipk0QIDAQAB",
+   "manifest_version": 2,
+   "name": "Solarized Dark",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 147, 161, 161 ],
+         "button_background": [ 0, 43, 54 ],
+         "control_background": [ 0, 43, 54 ],
+         "frame": [ 0, 43, 54 ],
+         "ntp_background": [ 0, 43, 54 ],
+         "ntp_header": [ 181, 137, 0 ],
+         "ntp_link": [ 38, 139, 210 ],
+         "ntp_link_underline": [ 38, 139, 210 ],
+         "ntp_section": [ 7, 54, 66 ],
+         "ntp_section_link": [ 38, 139, 210 ],
+         "ntp_section_link_underline": [ 38, 139, 210 ],
+         "ntp_section_text": [ 131, 148, 150 ],
+         "ntp_text": [ 131, 148, 150 ],
+         "tab_background_text": [ 88, 110, 117 ],
+         "tab_text": [ 147, 161, 161 ],
+         "toolbar": [ 7, 54, 66 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
