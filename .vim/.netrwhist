@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/alan/dstillery-challenge/minibidder/src/main/java/com/dstillery/minibidder'
 let g:netrw_dirhist_2='/home/alan/dstillery-challenge/minibidder/src/main/java/com/dstillery/minibidder/filter/brq'
 let g:netrw_dirhist_3='/home/alan/dstillery-challenge/minibidder/src/main/java/com/dstillery/minibidder/model'
+let g:netrw_dirhist_4='/Users/azhao/dev/projects/heat/kegerator-heat/src/main/java/com/dstillery/kegerator/advertiser'
+let g:netrw_dirhist_5='/Users/azhao/dev/projects/sft/dstillery-validators/.git'
+let g:netrw_dirhist_6='/Users/azhao/dev/projects/heat/dstillery-validators-heat/.git'

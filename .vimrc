@@ -32,7 +32,9 @@ set relativenumber
 set cursorline
 set cursorcolumn
 
-let $PYTHONPATH='/usr/lib/python3.4/site-packages'
+"let $PYTHONPATH='/usr/local/lib/python3.5/site-packages'
+set rtp+=/usr/local/lib/python3.5/site-packages/powerline/bindings/vim
+
 set laststatus=2
 
 "random
