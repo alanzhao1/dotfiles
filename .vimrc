@@ -44,8 +44,8 @@ set cc=80               "Ruler for 80th column
 
 "tabs
 set expandtab
-"set tabstop=4		"Spaces instead of tab
-"set shiftwidth=4
+set tabstop=4		"Spaces instead of tab
+set shiftwidth=4
 set smarttab
 "set shiftwidth=4
 
